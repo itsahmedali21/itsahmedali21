@@ -18,4 +18,4 @@
 
 ![Mr Ahmed Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=itsahmed21&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmedali21&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmedali21&theme=da
