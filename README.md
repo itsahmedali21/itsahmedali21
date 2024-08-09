@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Advanced **CSS**
 - 💬 Ask me anything about **CSS**
-- 📫 How to reach me: itsahmedali21@gmail.com
+- 📫 How to reach me: **itsahmedali21@gmail.com**
 - ⚡ Fun fact: **Cricket is my passion.**
   
 ### Connect with me:
