@@ -4,9 +4,9 @@
 [![](https://visitcount.itsvg.in/api?id=itsahmedali21&icon=0&color=0)](https://visitcount.itsvg.in)
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="105" /> About Me:
 
-- 🌱 I’m currently learning **Advanced CSS**
+- 🌱 I’m currently learning **PHP**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **itsahmedali@gmail.com**
 
