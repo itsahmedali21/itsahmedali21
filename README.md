@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **itsahmedali@gmail.com**
 
-- ⚡ Fun fact **Cricket is my passion**
+- ⚡ Fun fact **I believe passion is the secret to great work.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4hmed_sirohi)
