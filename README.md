@@ -2,11 +2,11 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="105" /> About Me:
 - 🌱 I'm currently focusing on **AI-related Technologies**
 - 💻 I'm a **Vibe Coder** & **Webflow Expert**
-- 📈 I do **SEO (On-Page, Off-Page & Technical)**
 - 🛠️ I work with a lot of **AI & Development Tools**
 - 💬 Ask me about **PHP, Webflow & SEO**
 - 📫 How to reach me **itsahmedali@gmail.com**
 - ⚡ Fun fact **I believe passion is the secret to great work.**
+- 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4hmed_sirohi)
 # 💻 Tech Stack:
