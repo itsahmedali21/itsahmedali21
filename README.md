@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6A3093,100:00C9FF&height=200&section=header&text=Ahmed%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Webflow%20Expert%20%E2%80%A2%20Vibe%20Coder&descAlignY=60&descSize=20" width="100%"/>
 
-<img src="https://github.com/itsahmedali21.png" width="120" style="border-radius:50%;" />
 
 ### Fast Sites. Clean Code. Real Rankings.
 
