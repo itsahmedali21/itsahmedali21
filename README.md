@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6A3093,100:00C9FF&height=200&section=header&text=Ahmed%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Webflow%20Expert%20%E2%80%A2%20Vibe%20Coder&descAlignY=60&descSize=20" width="100%"/>
 
+<img src="https://github.com/itsahmedali21.png" width="120" style="border-radius:50%;" />
 
 ### Fast Sites. Clean Code. Real Rankings.
 
@@ -117,15 +118,7 @@ Full-stack exam portal — student login, exam delivery, live leaderboard via PH
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsahmedali21&show_icons=true&hide_border=true&include_all_commits=true&title_color=00C9FF&icon_color=6A3093&text_color=ffffff&bg_color=0F0C29&cache_seconds=1800" width="100%" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahmedali21&hide_border=true&background=0F0C29&ring=6A3093&fire=00C9FF&currStreakLabel=00C9FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmedali21&hide_border=true&layout=compact&include_all_commits=true&title_color=00C9FF&icon_color=6A3093&text_color=ffffff&bg_color=0F0C29&cache_seconds=1800" width="60%" />
 
 </div>
 
