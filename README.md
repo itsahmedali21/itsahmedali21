@@ -15,67 +15,27 @@
 
 ## 👨‍💻 About Me
 
-I build fast, search-optimized websites — **hand-written**, in **Webflow**, or **vibe-coded with AI** — and make sure they actually get found on Google once they're live.
+I build fast, search-optimized websites — **hand-written**, in **Webflow**, or **vibe-coded with AI** — covering everything from custom frontends to Laravel backends to full SEO audits.
 
 ```javascript
 const ahmedAli = {
   location: "Sukkur, Sindh, Pakistan",
   role: "Frontend Developer & Webflow Expert",
-  focus: ["AI-Assisted Development", "SEO", "Scalable Frontends"],
+  stack: ["React", "Laravel", "Webflow", "SEO"],
   currentlyLearning: ["Laravel", "Advanced OOP Patterns"],
   funFact: "I believe passion is the secret to great work",
   reachMe: "itsahmedali@gmail.com"
 };
 ```
 
-- 🔭 Currently building projects across **hand-coded, Webflow & AI-assisted** stacks
-- 🌱 Sharpening my **Laravel** and **OOP** fundamentals
+- 🔭 Building across **hand-coded, Webflow & AI-assisted** stacks
 - 📈 Every project ships with **on-page, off-page & technical SEO** baked in
 - 💬 Ask me about **React, Webflow, PHP/Laravel & SEO**
 - ⚡ Fun fact: passion is the secret to great work
 
 <br/>
 
-## 🧩 What I Do
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top" align="center">
-
-**💻 Custom Code**
-
-Semantic, accessible interfaces in HTML, CSS, JavaScript, React & Bootstrap/Tailwind
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**🅦 Webflow Development**
-
-Custom Webflow builds — CMS collections, interactions & clean client handoff
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**⚙️ Backend & OOP**
-
-PHP, Laravel & MySQL — clean, object-oriented, database-driven backends
-
-</td>
-<td width="25%" valign="top" align="center">
-
-**📈 SEO & Audits**
-
-On-page, off-page & technical SEO with full website audits
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🛠️ Skills & Tech Stack
-
-**Frontend**
+## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -83,28 +43,16 @@ On-page, off-page & technical SEO with full website audits
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE.svg?style=for-the-badge)
-
-**No-Code / Low-Code**
-
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)
 ![Webflow CMS](https://img.shields.io/badge/Webflow%20CMS-146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)
-
-**SEO**
-
 ![On-Page SEO](https://img.shields.io/badge/On--Page%20SEO-34A853.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Off-Page SEO](https://img.shields.io/badge/Off--Page%20SEO-34A853.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Technical SEO](https://img.shields.io/badge/Technical%20SEO-34A853.svg?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Website Audit](https://img.shields.io/badge/Website%20Audit-34A853.svg?style=for-the-badge&logo=lighthouse&logoColor=white)
-
-**AI / Vibe Coding**
-
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-8A2BE2.svg?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
@@ -126,28 +74,6 @@ On-page, off-page & technical SEO with full website audits
 
 <br/>
 
-## 📊 Proficiency
-
-**Custom Code**
-`HTML & CSS` ████████████████████░ 96%
-`JavaScript` ██████████████████░░░ 90%
-`React` ████████████████░░░░░ 82%
-
-**Backend**
-`PHP` █████████████████░░░░ 85%
-`Laravel` ███████████████░░░░░░ 78%
-`MySQL & OOP` ████████████████░░░░░ 80%
-
-**Webflow**
-`Designer & CMS` ██████████████████░░░ 92%
-`Client Handoff` ██████████████████░░░ 90%
-
-**SEO**
-`On-Page & Off-Page` ███████████████████░░ 94%
-`Technical SEO & Audits` ██████████████████░░░ 90%
-
-<br/>
-
 ## 🚀 Featured Projects
 
 | Project | Type | Description |
@@ -161,15 +87,23 @@ On-page, off-page & technical SEO with full website audits
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=itsahmedali21&theme=dracula&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsahmedali21&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahmedali21&theme=dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsahmedali21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahmedali21&theme=dracula&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmedali21&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsahmedali21&theme=react-dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmedali21&theme=dracula&hide_border=true&layout=compact&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsahmedali21&theme=react-dark&hide_border=true&area=true" width="48%" />
 
 </div>
 
