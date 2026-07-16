@@ -112,15 +112,7 @@ Full-stack exam portal — student login, exam delivery, live leaderboard via PH
 <img src="https://github-profile-trophy.vercel.app/?username=itsahmedali21&no-frame=true&column=4&margin-w=15&margin-h=15&title_color=00C9FF&icon_color=6A3093&text_color=ffffff&bg_color=0F0C29" alt="GitHub Trophies" width="100%" />
 </div>
 
-<br/>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahmedali21&hide_border=true&background=0F0C29&ring=6A3093&fire=00C9FF&currStreakLabel=00C9FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" />
-
-</div>
+<br
 
 <br/>
 
