@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=itsahmedali21&color=6A3093&style=for-the-badge&label=VIEWS)
 ![Freelance](https://img.shields.io/badge/Available_for-Freelance-00C9FF?style=for-the-badge)
 
-<a href="mailto:itsahmedali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:itsahmedali21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://ahmed-ali-updated-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://instagram.com/4hmed_sirohi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
