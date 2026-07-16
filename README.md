@@ -1,37 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+Ali+%F0%9F%91%8B;Frontend+Developer;Webflow+Expert;SEO+Specialist;Vibe+Coder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:6A3093,100:00C9FF&height=200&section=header&text=Ahmed%20Ali&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Webflow%20Expert%20%E2%80%A2%20Vibe%20Coder&descAlignY=60&descSize=20" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmed-ali-updated-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsahmedali21@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/4hmed_sirohi)
-[![Freelance](https://img.shields.io/badge/Available%20for-Freelance-brightgreen?style=for-the-badge)](mailto:itsahmedali@gmail.com)
+### Fast Sites. Clean Code. Real Rankings.
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsahmedali21&color=D97757&style=for-the-badge&label=PROFILE+VIEWS)
+[![Location](https://img.shields.io/badge/📍-Sukkur%2C%20Pakistan-0F0C29?style=for-the-badge)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=itsahmedali21&color=6A3093&style=for-the-badge&label=PROFILE+VIEWS)
+[![Freelance](https://img.shields.io/badge/Available%20for-Freelance-00C9FF?style=for-the-badge)](mailto:itsahmedali@gmail.com)
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+👋 Hey, I'm Ahmed — I build with code, Webflow, and AI, and make sure it ranks once it's live.
 
-I build fast, search-optimized websites — **hand-written**, in **Webflow**, or **vibe-coded with AI** — covering everything from custom frontends to Laravel backends to full SEO audits.
-
-```javascript
-const ahmedAli = {
-  location: "Sukkur, Sindh, Pakistan",
-  role: "Frontend Developer & Webflow Expert",
-  stack: ["React", "Laravel", "Webflow", "SEO"],
-  currentlyLearning: ["Laravel", "Advanced OOP Patterns"],
-  funFact: "I believe passion is the secret to great work",
-  reachMe: "itsahmedali@gmail.com"
-};
-```
-
-- 🔭 Building across **hand-coded, Webflow & AI-assisted** stacks
-- 📈 Every project ships with **on-page, off-page & technical SEO** baked in
-- 💬 Ask me about **React, Webflow, PHP/Laravel & SEO**
-- ⚡ Fun fact: passion is the secret to great work
+📫 [itsahmedali@gmail.com](mailto:itsahmedali@gmail.com) · 🌐 [Portfolio](https://ahmed-ali-updated-portfolio.vercel.app/) · 📸 [Instagram](https://instagram.com/4hmed_sirohi)
 
 <br/>
 
@@ -59,7 +42,7 @@ const ahmedAli = {
 
 <br/>
 
-## 🧰 Tools I Use
+## 🧰 Tools
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -74,45 +57,34 @@ const ahmedAli = {
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Type | Description |
-|---|---|---|
-| **[DevicesArena](https://devicesarena.com/)** | Full-Stack · Custom Code | Smartphone review & comparison platform — device database, spec compare tool, phone finder, Google auth, live news |
-| **[Muse AI](https://muse-ai-ahmed.webflow.io/)** | Webflow Build | AI SaaS landing page — animated stats, tiered pricing, testimonials |
-| **[Umrah Tours](https://umrah-tours.webflow.io/)** | Webflow CMS | Travel agency site — packages, blog/guides, FAQ, full on-page SEO |
-| **[Exam Portal](https://exam-portal.infinityfreeapp.com/)** | Vibe Coded · PHP API | Exam portal with student login, exam delivery, live leaderboard |
+| Project | Type |
+|---|---|
+| **[DevicesArena](https://devicesarena.com/)** | Full-Stack · Custom Code |
+| **[Muse AI](https://muse-ai-ahmed.webflow.io/)** | Webflow Build |
+| **[Umrah Tours](https://umrah-tours.webflow.io/)** | Webflow CMS |
+| **[Exam Portal](https://exam-portal.infinityfreeapp.com/)** | Vibe Coded · PHP API |
 
-📄 **[View Full Portfolio & Resume →](https://ahmed-ali-updated-portfolio.vercel.app/)**
+📄 **[Full Portfolio →](https://ahmed-ali-updated-portfolio.vercel.app/)**
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=itsahmedali21&theme=dracula&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
-<br/>
-
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=itsahmedali21&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsahmedali21&theme=dracula&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsahmedali21&theme=dracula&hide_border=true&layout=compact&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsahmedali21&theme=react-dark&hide_border=true&area=true" width="48%" />
-
 </div>
 
 <br/>
 
-<div align="center">
-
-### 💬 Let's Build Something That Ranks
-
-📫 [itsahmedali@gmail.com](mailto:itsahmedali@gmail.com) &nbsp;·&nbsp; 🌐 [Portfolio](https://ahmed-ali-updated-portfolio.vercel.app/) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/4hmed_sirohi)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A3093&height=100&section=footer" width="100%"/>
