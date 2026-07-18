@@ -60,7 +60,7 @@
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 📱 [DevicesArena](https://devicesarena.com/)
 Smartphone review & comparison platform — device database, compare tool, phone finder, Google auth.
@@ -68,7 +68,7 @@ Smartphone review & comparison platform — device database, compare tool, phone
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-0F0C29?style=flat-square) ![Custom Code](https://img.shields.io/badge/Custom%20Code-6A3093?style=flat-square)
 
 </td>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 [Muse AI](https://muse-ai-ahmed.webflow.io/)
 AI SaaS landing page — animated stats, tiered pricing, testimonials.
@@ -78,7 +78,7 @@ AI SaaS landing page — animated stats, tiered pricing, testimonials.
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🕋 [Umrah Tours](https://umrah-tours.webflow.io/)
 Travel agency site — packages, blog/guides, FAQ, full on-page SEO.
@@ -86,7 +86,7 @@ Travel agency site — packages, blog/guides, FAQ, full on-page SEO.
 ![Webflow CMS](https://img.shields.io/badge/Webflow%20CMS-146EF5?style=flat-square&logo=webflow&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-34A853?style=flat-square)
 
 </td>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 📝 [Exam Portal](https://exam-portal.infinityfreeapp.com/)
 Full-stack exam portal — student login, exam delivery, live leaderboard via PHP API.
